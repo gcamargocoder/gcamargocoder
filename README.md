@@ -20,6 +20,8 @@ Acredito no poder do trabalho em equipe e na inovação para transformar ideias 
 <p align="left">
     <a href="https://www.linkedin.com/in/gilcccamargo/">
         <img 
+            style="padding-right: 10px;"
+            align="left"
             alt="Linkedin" 
             title="Conecte com meu Linkedin" 
             src="https://icongr.am/devicon/linkedin-original.svg?size=50&color=currentColor"
@@ -28,7 +30,7 @@ Acredito no poder do trabalho em equipe e na inovação para transformar ideias 
         <img 
             alt="GitHub" 
             title="Me siga no GitHub" 
-            src="https://icongr.am/devicon/github-original.svg?size=50&color=currentColor"
+            src="https://img.icons8.com/?size=55&id=3tC9EQumUAuq&format=png&color=FFFFFF"
         />
 
 ### 🤖 Linguagens e Tecnologias
