@@ -11,7 +11,7 @@ Apaixonado por tecnologia, estou focado em desenvolver minhas habilidades em pro
 
 Valores e Motivação;
 
-Acredito no poder do trabalho em equipe e na inovação para transformar ideias em realidade. Estou em busca de oportunidades que me permitam contribuir e crescer, sempre valorizando a ética, a troca de conhecimento e a criatividade.
+Acredito no trabalho em equipe e na inovação para transformar ideias em realidade. Estou em busca de oportunidades que me permitam contribuir e crescer, sempre valorizando a ética, a troca de conhecimento e a criatividade.
 
 <br>
 
