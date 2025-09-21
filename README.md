@@ -5,14 +5,11 @@
 
 # 🧑🏻‍💻 Gilson Camargo
 
-**`Desenvolvedor FullStack`**
+💻 Sou Desenvolvedor Full Stack Júnior, com foco em JavaScript, TypeScript, React e Node.js. Atualmente, desenvolvo projetos pessoais que reforçam minhas habilidades em Front-End e Back-End, aplicando conceitos modernos e boas práticas de programação.
 
-Me chamo Gilson Camargo, tenho 42 anos e sou do interior de São Paulo. 
-Sou um profissional com sólida experiência em diversas áreas, atualmente em transição para o desenvolvimento FullStack. Com 14 anos de experiência em confecção de cama, mesa e banho, 5 anos de experiência em atendimento ao cliente na área de vendas externas e 8 anos de experiência em prestação de serviço na área de refrigeração, instalações elétricas e segurança eletrônica. Nessa trajetória, eu tenho desenvolvido habilidades e conhecimentos que me permitem oferecer um atendimento de alta qualidade e comprometimento. 
+🚀 Minha experiência anterior em diferentes setores me deu disciplina, visão de negócio e foco em resultados, qualidades que aplico hoje no desenvolvimento de novos projetos.
 
-Transição para Tecnologia;
-
-Apaixonado por tecnologia, estou focado em desenvolver minhas habilidades em programação, com ênfase em FrontEnd, Back End, JavaScript, Node.js e React. Estou envolvido em projetos pessoais que me permitem aplicar e expandir meu conhecimento técnico.
+🌍 Estou em busca de uma oportunidade como Desenvolvedor Júnior para colaborar em equipe, contribuir em projetos reais e continuar evoluindo minhas competências técnicas e profissionais.
 
 Valores e Motivação;
 
