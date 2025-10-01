@@ -1,145 +1,78 @@
+<h1 align="center">
+  🧑🏻‍💻 Gilson Camargo
+</h1>
 
-
-
-# Olá, eu sou;
-
-# 🧑🏻‍💻 Gilson Camargo
-
-💻 Sou Desenvolvedor Full Stack Júnior, com foco em JavaScript, TypeScript, React e Node.js. Atualmente, desenvolvo projetos pessoais que reforçam minhas habilidades em Front-End e Back-End, aplicando conceitos modernos e boas práticas de programação.
-
-🚀 Minha experiência anterior em diferentes setores me deu disciplina, visão de negócio e foco em resultados, qualidades que aplico hoje no desenvolvimento de novos projetos.
-
-🌍 Estou em busca de uma oportunidade como Desenvolvedor Júnior para colaborar em equipe, contribuir em projetos reais e continuar evoluindo minhas competências técnicas e profissionais.
-
-Valores e Motivação;
-
-Acredito no trabalho em equipe e na inovação para transformar ideias em realidade. Estou em busca de oportunidades que me permitam contribuir e crescer, sempre valorizando a ética, a troca de conhecimento e a criatividade.
-
-<br>
-
-### 🔗 Mídia Social
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/gilcccamargo/">
-        <img 
-            style="padding-right: 10px;"
-            align="left"
-            alt="Linkedin" 
-            title="Conecte com meu Linkedin" 
-            src="https://icongr.am/devicon/linkedin-original.svg?size=50&color=currentColor"
-    >
-    <a href="https://github.com/gcamargocoder">
-        <img 
-            alt="GitHub" 
-            title="Me siga no GitHub" 
-            src="https://img.icons8.com/?size=55&id=3tC9EQumUAuq&format=png&color=FFFFFF"
-        />
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://icongr.am/devicon/mongodb-original.svg?size=57&color=currentColor"
-/>
-  <img 
-     align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://icongr.am/devicon/postgresql-original.svg?size=57&color=currentColor" 
-  />
-  <img 
-     align="left" 
-    alt="NodeJS" 
-    title="NodeJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://icongr.am/devicon/nodejs-original.svg?size=57&color=currentColor" 
-  />
-    <img 
-     align="left" 
-    alt="Sequelize" 
-    title="Sequelize"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://icongr.am/devicon/sequelize-original.svg?size=57&color=currentColor" 
-  />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gcamargocoder&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcamargocoder&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  💻 Desenvolvedor Full Stack Júnior | JavaScript, TypeScript, React & Node.js
 </p>
 
+---
 
+## 🌟 Sobre Mim
 
+Sou **Desenvolvedor Full Stack Júnior** com experiência em **JavaScript, TypeScript, React e Node.js**, atuando em projetos de **Front-End e Back-End**.  
+Minha experiência em diversos setores trouxe **disciplina, visão de negócio e foco em resultados**, qualidades que aplico em todos os projetos que desenvolvo.
+
+💡 **Objetivo:** Trabalhar em projetos desafiadores, colaborar em equipes e evoluir continuamente minhas competências técnicas.
+
+✨ **Valores:** Trabalho em equipe, inovação, ética, criatividade e aprendizado contínuo.
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+<p align="left">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-right:5px">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin-right:5px">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-right:5px">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="margin-right:5px">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin-right:5px">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" style="margin-right:5px">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin-right:5px">
+  <img alt="N8N" src="https://img.shields.io/badge/N8N-FF4300?style=for-the-badge&logo=n8n&logoColor=white" style="margin-right:5px">
+  <img alt="AI" src="https://img.shields.io/badge/IA-0A0A0A?style=for-the-badge&logo=openai&logoColor=white" style="margin-right:5px">
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 1️⃣ Conversor de Moedas Responsivo
+- **Descrição:** Conversor de moedas em tempo real usando **HTML, CSS e JavaScript**, com **modo claro/escuro**, animações e design responsivo.
+- **Tecnologias:** HTML, CSS, JavaScript, API AwesomeAPI
+- **Demo:** [Clique aqui](https://gcamargocoder.github.io/Conversor_Moedas_Responsivo_API/)
+- **Repositório:** [GitHub](https://github.com/gcamargocoder/Conversor_Moedas_Responsivo_API)
+
+### 2️⃣ Página de Proteção Animal “We Care”
+- **Descrição:** Página web para organização de proteção animal, com design responsivo e recursos interativos.
+- **Tecnologias:** HTML, CSS
+- **Demo:** [Clique aqui](https://gcamargocoder.github.io/03_Projeto_PETSHOP_RESPONSIVA_26-08-25/)
+- **Repositório:** [GitHub](https://github.com/gcamargocoder/03_Projeto_PETSHOP_RESPONSIVA_26-08-25)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gcamargocoder&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="200"/>
+</p>
+
+---
+
+## 🔗 Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/gilcccamargo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/gcamargocoder" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:gcamargocoder@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+</p>
+
+---
+
+Made with ♥ by **Gilson Camargo**
