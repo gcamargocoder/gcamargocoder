@@ -43,11 +43,21 @@ Minha experiência em diversos setores trouxe **disciplina, visão de negócio e
 - **Demo:** [Clique aqui](https://gcamargocoder.github.io/Conversor_Moedas_Responsivo_API/)
 - **Repositório:** [GitHub](https://github.com/gcamargocoder/Conversor_Moedas_Responsivo_API)
 
-### 2️⃣ Página de Proteção Animal “We Care”
+---
+
+### 2️⃣ Proteção Animal “We Care”
 - **Descrição:** Página web para organização de proteção animal, com design responsivo e recursos interativos.
 - **Tecnologias:** HTML, CSS
 - **Demo:** [Clique aqui](https://gcamargocoder.github.io/03_Projeto_PETSHOP_RESPONSIVA_26-08-25/)
 - **Repositório:** [GitHub](https://github.com/gcamargocoder/03_Projeto_PETSHOP_RESPONSIVA_26-08-25)
+
+---
+
+### 3️⃣ Starbucks Coffee Shop
+- **Descrição:** Landing page inspirada no site da **Starbucks**, desenvolvida para praticar **HTML, CSS e JavaScript**. Inclui **animações interativas**, **troca dinâmica de cores e imagens**, além de um **design responsivo** adaptado para diferentes resoluções.
+- **Tecnologias:** HTML, CSS, JavaScript
+- **Demo:** [Clique aqui](https://gcamargocoder.github.io/02_-Projeto_STARBUCKS_25-08-25/) 
+- **Repositório:** [GitHub](https://github.com/gcamargocoder/02_-Projeto_STARBUCKS_25-08-25) 
 
 ---
 
