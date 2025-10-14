@@ -57,7 +57,16 @@ Minha experiência em diversos setores trouxe **disciplina, visão de negócio e
 - **Descrição:** Landing page inspirada no site da **Starbucks**, desenvolvida para praticar **HTML, CSS e JavaScript**. Inclui **animações interativas**, **troca dinâmica de cores e imagens**, além de um **design responsivo** adaptado para diferentes resoluções.
 - **Tecnologias:** HTML, CSS, JavaScript
 - **Demo:** [Clique aqui](https://gcamargocoder.github.io/02_-Projeto_STARBUCKS_25-08-25/) 
-- **Repositório:** [GitHub](https://github.com/gcamargocoder/02_-Projeto_STARBUCKS_25-08-25) 
+- **Repositório:** [GitHub](https://github.com/gcamargocoder/02_-Projeto_STARBUCKS_25-08-25)
+
+---
+
+### 4️⃣ Gerador de Números Aleatórios 
+- **Descrição:** É um aplicativo web minimalista e elegante , criado para praticar e demonstrar habilidades em **HTML, CSS e JavaScript**. 
+Ele permite que os usuários **gerem facilmente números aleatórios** entre dois valores definidos, garantindo uma **experiência fluida e interativa**.
+- **Tecnologias:** HTML, CSS, JavaScript
+- **Demo:** [Clique aqui](https://gcamargocoder.github.io/SORTEADOR_DE_NUMEROS/) 
+- **Repositório:** [GitHub](https://github.com/gcamargocoder/SORTEADOR_DE_NUMEROS) 
 
 ---
 
