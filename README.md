@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  💻 Desenvolvedor Full Stack Júnior | JavaScript, TypeScript, React & Node.js
+  💻 Desenvolvedor Full Stack | JavaScript, TypeScript, React & Node.js
 </p>
 
 ---
@@ -13,12 +13,12 @@ Atuo no desenvolvimento de soluções que vão do front-end ao back-end, utiliza
 Tenho experiência na construção de sistemas com:
  -Arquitetura multi-tenant 
  -Autenticação e controle de acesso 
-- Integração com APIs 
+ -Integração com APIs 
  -Pagamentos recorrentes 
  -Dashboards e gestão de dados em tempo real 
 
 Atualmente, desenvolvo e finalizo múltiplos sistemas SaaS para diferentes segmentos, incluindo:
-- Gestão para lanchonetes (controle de mesas, pedidos e delivery) 
+ -Gestão para lanchonetes (controle de mesas, pedidos e delivery) 
  -Gestão para barbearias (agendamento e clientes) 
  -Sistema técnico para refrigeração com PMOC e diagnóstico 
  -Sistema de gestão para pet shops 
