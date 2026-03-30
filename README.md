@@ -7,16 +7,25 @@
 </p>
 
 ---
+💻 Desenvolvedor Full Stack focado na criação de sistemas SaaS completos, com experiência prática no desenvolvimento de aplicações escaláveis, multi-tenant e orientadas a negócios reais.
+Atuo no desenvolvimento de soluções que vão do front-end ao back-end, utilizando tecnologias como JavaScript, TypeScript, React e Node.js, com integração a bancos de dados e serviços externos.
 
-## 🌟 Sobre Mim
+Tenho experiência na construção de sistemas com:
+ -Arquitetura multi-tenant 
+ -Autenticação e controle de acesso 
+- Integração com APIs 
+ -Pagamentos recorrentes 
+ -Dashboards e gestão de dados em tempo real 
 
-Sou **Desenvolvedor Full Stack Júnior** com experiência em **JavaScript, TypeScript, React e Node.js**, atuando em projetos de **Front-End e Back-End**.  
-Minha experiência em diversos setores trouxe **disciplina, visão de negócio e foco em resultados**, qualidades que aplico em todos os projetos que desenvolvo.
+Atualmente, desenvolvo e finalizo múltiplos sistemas SaaS para diferentes segmentos, incluindo:
+- Gestão para lanchonetes (controle de mesas, pedidos e delivery) 
+ -Gestão para barbearias (agendamento e clientes) 
+ -Sistema técnico para refrigeração com PMOC e diagnóstico 
+ -Sistema de gestão para pet shops 
 
-💡 **Objetivo:** Trabalhar em projetos desafiadores, colaborar em equipes e evoluir continuamente minhas competências técnicas.
+Meu foco é desenvolver soluções completas, com visão de produto, escalabilidade e aplicação prática no mercado.
 
-✨ **Valores:** Trabalho em equipe, inovação, ética, criatividade e aprendizado contínuo.
-
+🚀 Minha experiência anterior em diferentes setores fortaleceu minha disciplina, visão de negócio e foco em resultados, qualidades que aplico no desenvolvimento de soluções tecnológicas.
 ---
 
 ## 🛠 Tecnologias e Ferramentas
